@@ -23,10 +23,10 @@ repository               : "Bailey_Kerr.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_photo.png"
   name             : "Bailey Kerr"
   pronouns         : "he/him"  
-  bio              : "I am a 19-year-old Psychology student studying at Adelaide University"
+  bio              : "19-year-old Psychology student studying at Adelaide University"
   location         : "Adelaide"
   employer         : "Adelaide University"
   uri              : # URL
